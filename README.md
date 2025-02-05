@@ -7,33 +7,17 @@
 </div>
 
  <div id="badges">
-   <a href="https://www.linkedin.com/in/ahmed-shamim">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-   <a href="https://twitter.com/me_shaon">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
-
-   <img  align="right" src="https://komarev.com/ghpvc/?username=me-shaon&label=Profile%20views&color=green&style=flat" alt="me-shaon" />
-   <a align="right" href="https://github.com/ferasbbm?tab=followers">
-      <img  align="right" src="https://img.shields.io/github/followers/me-shaon?username=me-shaon&label=Followers" alt="me-shaon" />
-   </a>
-</div>
-<div id="badges">
-   <p>
-     <a href="https://www.linkedin.com/in/aliakborswe">
+   <a href="https://www.linkedin.com/in/aliakborswe">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    <a href="https://twitter.com/aliakborswe">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
-   </p>
-   <p align="right">
-     <img src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
-     <a href="https://github.com/aliakborswe?tab=followers">
-       <img src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers">
-     </a>
-   </p>
+
+   <img  align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
+   <a align="right" href="https://github.com/aliakborswe?tab=followers">
+      <img  align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers" alt="aliakborswe" />
+   </a>
 </div>
 
 <p>🔹 Hi, I'm Md. Ali Akbor! A passionate Full Stack Web Developer with expertise in building dynamic, high-performance web applications using React, Next.js, TypeScript, Express.js, Node.js, and MongoDB.</p>
