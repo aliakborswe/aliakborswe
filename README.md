@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" style=" height: 200px;">
   <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme="light" alt="GitHub Streak" />
 </a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;"/>
