@@ -21,7 +21,7 @@
   <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme="light" alt="GitHub Streak" />
 </a>
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&locale=en&hide_title=false&layout=compact&card_width=320" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&locale=en&hide_title=false&layout=compact&card_width=420" height="150" alt="languages graph"/>
 </div>
 
 ###
