@@ -6,8 +6,8 @@
   <img src="gitartwork.svg" alt="ALI-AKBOR" />
 </div>
 
- <div id="badges">
-   <div>
+ <div id="badges" align="center">
+   <div align="left">
      <a href="https://www.linkedin.com/in/aliakborswe">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
    </div>
-   <div>
+   <div align="right">
      <img src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
   <a href="https://github.com/aliakborswe?tab=followers"><img src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers"></a>
    </div>
