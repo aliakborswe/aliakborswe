@@ -9,6 +9,7 @@
 <div align="center">
   <img src="gitartwork.svg" alt="ALI-AKBOR" />
 </div>
+<p>🔹 Hi, I'm Md. Ali Akbor! A passionate Full Stack Web Developer with expertise in building dynamic, high-performance web applications using React, Next.js, TypeScript, Express.js, Node.js, and MongoDB.</p>
 
 - 🌱 I’m currently learning **TypeScript**
 - 🏢 I’m working with the **MERN stack**
