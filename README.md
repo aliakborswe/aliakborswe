@@ -13,6 +13,10 @@
    <a href="tel:+8801730255696">
    <img src="https://img.shields.io/badge/Phone-%2300A859.svg?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
 </a>
+   <a href="https://wa.me/8801730255696" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+
    <img  align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
    <a align="right" href="https://github.com/aliakborswe?tab=followers">
       <img  align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers" alt="aliakborswe"/>
