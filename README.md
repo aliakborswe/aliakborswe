@@ -23,6 +23,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;"/>
 </div>
 
+###
+
+<h2 align="left">🚀 About Me</h2>
+
+###
 <p>🔹 Hi, I'm Md. Ali Akbor! A passionate Full Stack Web Developer with expertise in building dynamic, high-performance web applications using React, Next.js, TypeScript, Express.js, Node.js, and MongoDB.</p>
 
 - 🌱 I’m currently learning **TypeScript**
