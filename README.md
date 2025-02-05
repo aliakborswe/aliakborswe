@@ -17,7 +17,9 @@
 </div>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="height: 200px;"/>
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=dark" alt="GitHub Streak" />
+</a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;"/>
 </div>
 
