@@ -5,17 +5,18 @@
 </div>
  <div id="badges">
    <a href="https://www.linkedin.com/in/aliakborswe">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-   <a href="https://twitter.com/aliakborswe">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
-   <a href="tel:+8801730255696">
-   <img src="https://img.shields.io/badge/Phone-%2300A859.svg?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-   <a href="https://wa.me/8801730255696" target="_blank">
+<a href="https://twitter.com/aliakborswe">
+   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="tel:+8801730255696">
+   <img src="https://img.shields.io/badge/Phone-%2300A859.svg?style=for-the-badge&logo=mobile&logoColor=white" alt="Phone Badge"/>
+</a>
+<a href="https://wa.me/8801730255696" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
 </a>
+
 
    <img  align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
    <a align="right" href="https://github.com/aliakborswe?tab=followers">
