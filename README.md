@@ -1,11 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Ali Akbor</h1>
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
-
-
 <div align="center">
   <img src="gitartwork.svg" alt="ALI-AKBOR" />
 </div>
-
  <div id="badges">
    <a href="https://www.linkedin.com/in/aliakborswe">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,11 +10,15 @@
    <a href="https://twitter.com/aliakborswe">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
-
    <img  align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
    <a align="right" href="https://github.com/aliakborswe?tab=followers">
-      <img  align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers" alt="aliakborswe" />
+      <img  align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers" alt="aliakborswe"/>
    </a>
+</div>
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="height: 200px;"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;"/>
 </div>
 
 <p>🔹 Hi, I'm Md. Ali Akbor! A passionate Full Stack Web Developer with expertise in building dynamic, high-performance web applications using React, Next.js, TypeScript, Express.js, Node.js, and MongoDB.</p>
@@ -39,10 +40,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="40"/></a>
 </p>
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;"/>
-</div>
+
 
 
 <h2>Top Repositories: </h2>
@@ -57,7 +55,5 @@
       <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
       <strong align="left">Deep-dive-into-JavaScript</strong>
     </a>
-</p>
-
-    
+</p>  
 
