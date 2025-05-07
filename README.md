@@ -56,20 +56,3 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="40"/></a>
 </p>
 
-
-
-
-<h2>Top Repositories: </h2>
-<p>
-    <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank">
-      <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-      <strong align="left">Deep-dive-into-Python</strong>
-    </a>
-</p>
-<p>
-    <a href="https://github.com/aliakborswe/Deep-dive-into-JavaScript" target="_blank">
-      <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-      <strong align="left">Deep-dive-into-JavaScript</strong>
-    </a>
-</p>  
-
