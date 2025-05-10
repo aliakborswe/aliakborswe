@@ -53,10 +53,12 @@
 
 
 
-<div>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme="light" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" />
-  
+<div align="left" width="100%">
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme="light" alt="GitHub Streak" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&locale=en&hide_title=false&layout=compact&card_width="" height="200" alt="languages graph" align="left"/>
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" align="left"/>
 </div>
 
 
