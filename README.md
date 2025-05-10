@@ -7,10 +7,10 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aliakborswe">
+  <a href="https://www.linkedin.com/in/aliakborswe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/aliakborswe">
+  <a href="https://twitter.com/aliakborswe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="tel:+8801730255696">
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <img align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
-  <a href="https://github.com/aliakborswe?tab=followers">
+  <a href="https://github.com/aliakborswe?tab=followers" target="_blank">
     <img align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 </div>
