@@ -66,3 +66,21 @@
 
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aliakborswe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aliakborswe&icon=10&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&bg_color=0a0508&color=3b83da&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
