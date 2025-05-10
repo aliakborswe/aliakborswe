@@ -61,8 +61,8 @@
 
 ###
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme="light" alt="GitHub Streak" align="left"/>
-</div
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
 
 
 
