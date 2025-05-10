@@ -24,7 +24,6 @@
 
 
 ###
-
 <h2 align="left">🚀 About Me</h2>
 
 ###
@@ -34,7 +33,10 @@
 - 🏢 I’m working with the **MERN stack**
 - 🎯 2025 Goals: **Deep dive into Full-Stack Development**
 
-<h3 align="left">Languages and Tools:</h3>
+###
+<h2 align="left">Languages and Tools</h2>
+
+###
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" height="40"/></a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" height="40"/></a>
@@ -64,7 +66,7 @@
 
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) -->
 ![](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -75,4 +77,4 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&bg_color=0a0508&color=3b83da&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&bg_color=0a0508&color=3b83da&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
