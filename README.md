@@ -34,7 +34,7 @@
 - 🎯 2025 Goals: **Deep dive into Full-Stack Development**
 
 ###
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
 <p align="left">
