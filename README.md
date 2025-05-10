@@ -83,3 +83,10 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&bg_color=0a0508&color=3b83da&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" width="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&layout=compact&langs_count=5&theme=dracula&hide_border=false" width="100%" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak" />
+</div>
