@@ -3,7 +3,6 @@
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
 
 <div align="center">
-  <img src="gitartwork.svg" alt="ALI-AKBOR" />
 </div>
 
 <div id="badges">
