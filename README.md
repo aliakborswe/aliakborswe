@@ -18,14 +18,14 @@
 </div>
 
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🔹 **Web Developer** specializing in **MERN stack** with a passion for building scalable and dynamic applications.
 - 🌱 Currently expanding my expertise in **RDBMS**.
 - 🏢 Actively working with modern web technologies and focusing on **Full-Stack Development**.
 - 🎯 **2025 Goals**: Deepen knowledge in Full-Stack development, with a focus on back-end architectures and advanced databases.
 
----
+--
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40"/></a>
 </p>
 
----
+-
 
 ### 📊 GitHub Stats
 
@@ -60,7 +60,7 @@
 
 ### 🔝 Top Contributed Repos
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light&combine_all_yearly_contributions=true)](https://github.com/aliakborswe)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light)](https://github.com/aliakborswe)
 
 ---
 
