@@ -1,11 +1,7 @@
-
 <h1 align="center">Hi there 👋, I'm Muhammad Ali Akbor</h1>
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
 
 <div align="center">
-</div>
-
-<div id="badges">
   <a href="https://www.linkedin.com/in/aliakborswe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,7 +11,7 @@
   <a href="https://wa.me/8801730255696" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/aliakborswe?tab=followers" target="_blank">
     <img align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
@@ -24,14 +20,16 @@
 ---
 
 ### 🚀 About Me
-- 🔹 Hi, I'm Md. Ali Akbor! A MERN Stack Web Developer with expertise in building dynamic, high-performance web applications.
-- 🌱 I’m currently learning **RDBMS**.
-- 🏢 I’m working with the **MERN stack**.
-- 🎯 2025 Goals: **Deep dive into Full-Stack Development**.
+
+- 🔹 **Web Developer** specializing in **MERN stack** with a passion for building scalable and dynamic applications.
+- 🌱 Currently expanding my expertise in **RDBMS**.
+- 🏢 Actively working with modern web technologies and focusing on **Full-Stack Development**.
+- 🎯 **2025 Goals**: Deepen knowledge in Full-Stack development, with a focus on back-end architectures and advanced databases.
 
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" height="40"/></a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" height="40"/></a>
@@ -47,26 +45,30 @@
 ---
 
 ### 📊 GitHub Stats
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=light&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&include_all_commits=true&count_private=true&theme=light" height="150" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=light&hide_border=true" height="150" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aliakborswe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliakborswe&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/aliakborswe)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light)](https://github.com/aliakborswe)
 
 ---
 
 ### 📈 Activity Graph
-[![](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-Have any issues here? Feel free to reach out! 😊
+Feel free to reach out if you have any questions, or want to collaborate on a project! 😊
