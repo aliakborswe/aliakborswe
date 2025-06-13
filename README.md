@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Ali Akbor</h1>
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
 
-<div align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/aliakborswe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +11,7 @@
   <a href="https://wa.me/8801730255696" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=aliakborswe&label=Profile%20views&color=0e75b6&style=flat" alt="aliakborswe" />
   <a href="https://github.com/aliakborswe?tab=followers" target="_blank">
     <img align="right" src="https://img.shields.io/github/followers/aliakborswe?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
