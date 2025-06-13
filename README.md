@@ -26,7 +26,7 @@
 - 🎯 **2025 Goals**: Deepen knowledge in Full-Stack development, with a focus on back-end architectures and advanced databases.
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" height="40"/></a>  
