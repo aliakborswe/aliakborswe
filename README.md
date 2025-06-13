@@ -65,7 +65,7 @@
 ---
 
 ### 📈 Activity Graph
-[![](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&bg_color=0a0508&color=3b83da&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
