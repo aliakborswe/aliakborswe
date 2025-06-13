@@ -25,7 +25,6 @@
 - 🏢 Actively working with modern web technologies and focusing on **Full-Stack Development**.
 - 🎯 **2025 Goals**: Deepen knowledge in Full-Stack development, with a focus on back-end architectures and advanced databases.
 
---
 
 ### 🛠️ Tech Stack
 
@@ -41,33 +40,28 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40"/></a>
 </p>
 
--
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&include_all_commits=true&count_private=true&theme=light" height="150" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
----
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliakborswe&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/aliakborswe)
 
----
 
-### 🔝 Top Contributed Repos
+## 🔝 Top Contributed Repos
 
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light)](https://github.com/aliakborswe)
 
----
 
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 Feel free to reach out if you have any questions, or want to collaborate on a project! 😊
