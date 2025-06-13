@@ -17,7 +17,6 @@
   </a>
 </div>
 
----
 
 # 🚀 About Me
 
@@ -61,7 +60,7 @@
 
 ### 🔝 Top Contributed Repos
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light)](https://github.com/aliakborswe)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light&combine_all_yearly_contributions=true)](https://github.com/aliakborswe)
 
 ---
 
