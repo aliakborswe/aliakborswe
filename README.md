@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Ali Akbor</h1>
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://github.com/aliakborswe/aliakborswe/blob/main/banner.png" alt="banner" style="width:100%;"/>
+
+</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aliakborswe" target="_blank">
