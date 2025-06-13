@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
 - 🔹 **Web Developer** specializing in **MERN stack** with a passion for building scalable and dynamic applications.
 - 🌱 Currently expanding my expertise in **RDBMS**.
@@ -48,7 +48,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&include_all_commits=true&count_private=true&theme=light" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=light&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
 ---
