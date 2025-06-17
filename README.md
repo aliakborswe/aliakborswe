@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliakborswe&include_all_commits=true&count_private=true&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/aliakborswe)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliakborswe&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/aliakborswe)
 
 
 ## 🔝 Top Contributed Repos
