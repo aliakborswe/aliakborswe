@@ -63,7 +63,7 @@
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&include_all_commits=true&count_private=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&count_private=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 Feel free to reach out if you have any questions or would like to collaborate on a project. 😊
