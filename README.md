@@ -47,7 +47,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&include_all_commits=true&count_private=true&theme=light" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&include_all_commits=true&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&&include_all_commits=true&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
 
@@ -66,4 +66,4 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&include_all_commits=true&count_private=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-Feel free to reach out if you have any questions, or want to collaborate on a project! 😊
+Feel free to reach out if you have any questions or would like to collaborate on a project. 😊
