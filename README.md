@@ -49,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&include_all_commits=true" height="150" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=aliakborswe" height="150" alt="GitHub Stats"/>
 
 
 ## 🏆 GitHub Trophies
@@ -59,7 +58,7 @@
 
 ## 🔝 Top Contributed Repos
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5&theme=light)](https://github.com/aliakborswe)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5)](https://github.com/aliakborswe)
 
 
 ## 📈 Activity Graph
