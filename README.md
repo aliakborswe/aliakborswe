@@ -47,7 +47,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&include_all_commits=true&count_private=true&theme=light" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&include_all_commits=true&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&include_all_commits=true&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
 
