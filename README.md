@@ -59,7 +59,7 @@
 ## 🔝 Top Contributed Repos
 
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5)](https://github.com/aliakborswe)
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&count_private=true&limit=5)](https://github.com/aliakborswe)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&count_private=true)](https://github.com/aliakborswe)
 
 
 ## 📈 Activity Graph
