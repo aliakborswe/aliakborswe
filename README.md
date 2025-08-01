@@ -47,20 +47,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&include_all_commits=true" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&hide_border=false" height="150" alt="GitHub Streak"/>
-</div>
----
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&hide_border=false" height="150" alt="GitHub Streak"/>
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&include_all_commits=true" height="150" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&include_all_commits=true&hide_border=false" height="150" alt="GitHub Streak"/>
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
 
@@ -72,13 +59,12 @@
 ## 🔝 Top Contributed Repos
 
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&limit=5)](https://github.com/aliakborswe)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=aliakborswe&count_private=true&limit=5)](https://github.com/aliakborswe)
 
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&no-bg=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&include_all_commits=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliakborswe&count_private=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 Feel free to reach out if you have any questions or would like to collaborate on a project. 😊
