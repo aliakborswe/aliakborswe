@@ -46,10 +46,10 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&include_all_commits=true&theme=light" height="150" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&theme=light&hide_border=false" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&include_all_commits=true" height="150" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&count_private=true&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&include_all_commits=true" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aliakborswe" height="150" alt="GitHub Stats"/>
 
 
 ## 🏆 GitHub Trophies
