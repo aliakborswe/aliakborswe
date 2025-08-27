@@ -1,4 +1,4 @@
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=issues\&show_icons=true)
 <p align="center">
   <img src="https://github.com/aliakborswe/aliakborswe/blob/main/full-stack-web-developer.png" alt="banner" style="width:100%;"/>
 </p>
