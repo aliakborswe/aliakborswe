@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/aliakborswe/aliakborswe/blob/main/banner.png" alt="banner" style="width:100%;"/>
+  <img src="https://github.com/aliakborswe/aliakborswe/blob/main/full-stack-web-developer.png" alt="banner" style="width:100%;"/>
 </p>
 
 <div id="badges">
