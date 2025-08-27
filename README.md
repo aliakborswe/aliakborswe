@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=issues\&show_icons=true)
 <p align="center">
   <img src="https://github.com/aliakborswe/aliakborswe/blob/main/full-stack-web-developer.png" alt="banner" style="width:100%;"/>
 </p>
@@ -49,6 +48,7 @@
 
 <a href="https://github.com/aliakborswe/aliakborswe">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aliakborswe" />
+  ![Ali Akbor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakborswe\&hide=issues\&show_icons=true)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&include_all_commits=true" />
