@@ -45,17 +45,14 @@
 
 ## 📊 GitHub Stats
 
+![Ali Akbor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakborswe\&rank_icon=github)
+
 <a href="https://github.com/aliakborswe/aliakborswe">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aliakborswe" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app?user=aliakborswe&include_all_commits=true" />
 </a>
-
-
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliakborswe)](https://github.com/aliakborswe)
 
 
 ## 🔝 Top Contributed Repos
